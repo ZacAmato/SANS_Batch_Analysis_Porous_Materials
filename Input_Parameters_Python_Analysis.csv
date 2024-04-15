@@ -1,0 +1,30 @@
+work_directory,.,
+results_directory,./Gudrun_Results,
+run,2019_February,
+sample,ASW,
+action,sequence,
+,,
+,,
+The following will be set to default parameters unless explicitly stated here:,,
+,,
+1,Guinier-Porod,q plot min
+1,Guinier-Porod,q plot max
+1,Guinier-Porod,files to fit manually
+1,Guinier-Porod,manual fit d
+1,Guinier-Porod,manual fit G low Q
+1,Guinier-Porod,manual fit s low Q
+1,Guinier-Porod,manual fit Rg low Q
+1,Guinier-Porod,manual fit uncertainty in %
+1,Guinier-Porod,files to set fit start parameters manually
+1,Guinier-Porod,manual start d
+1,Guinier-Porod,manual start G low Q
+1,Guinier-Porod,manual start s low Q
+1,Guinier-Porod,manual start Rg low Q
+,,
+,,
+2,Porod Constant,files to set q fit range manually
+2,Porod Constant,q fit range min
+2,Porod Constant,q fit range max
+2,Porod Constant,number of points to fit over
+2,Porod Constant,q plot min
+2,Porod Constant,q plot max
